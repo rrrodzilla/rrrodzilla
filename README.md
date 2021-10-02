@@ -21,7 +21,7 @@ Python | 4 years
 C# | 21 years
 JavaScript | 25 years (includes evolutionary stacks just as React/Vue/et al)
 
-I know plenty of other languages, stacks, frameworks, data storage platforms, and technologies but the 4 above are my favorite to work in.
+I know plenty of other languages, stacks, frameworks, data storage platforms, and technologies but the four above are my favorite to work in.
 
 - 💞️ I’m looking to collaborate on a variety of open-source initiatives that focus on the greater social good or flexible, remote contracts to enable my family to continue focusing our efforts on caregiving for my best friend and his family during their time of need.
 - 📫 Hit me up on Twitter @rrrodziilla
