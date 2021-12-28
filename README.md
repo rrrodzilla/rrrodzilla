@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrrodzilla.  For the past decade I lived a simpler life on a sailboat with my family of 5, spending the past couple years cruising the Pacific Coast and writing software for myself and others.  Now my family has relocated back to Seattle in order to care for one of my best friends who has recently been diagnosed with a terminal illness called [Multiple Systems Atrophy (MSA)](https://www.multiplesystematrophy.org/about-msa/).  You can help support MY family being able to caregive for him and HIS family by supporting my open source work.  Thanks for checking things out!
+- 👋 Hi, I’m @rrrodzilla.  For the past decade I lived a simpler life on a sailboat with my family of 5, spending the past couple years cruising the Pacific Coast of Mexico and writing software for myself and others.  Now my family has relocated back to Seattle in order to care for one of my best friends who has recently been diagnosed with a terminal illness called [Multiple Systems Atrophy (MSA)](https://www.multiplesystematrophy.org/about-msa/).  You can help support MY family being able to caregive for him and HIS family by supporting my open source work.  Thanks for checking things out!
 - 👀 I’m interested in open source software and solutions that make the world a better place.
 - 🌱 I’ve been architecting technology solutions, leading software delivery teams and hacking code for over 25 years.
 
@@ -16,7 +16,7 @@ Currently I'm enjoying building backend solutions with Rust and front-end soluti
 
 Language | Years Experience
 ------------ | -------------
-Rust | Less than 1 (as of 9/21)
+Rust | About a year
 Python | 4 years
 C# | 21 years
 JavaScript | 25 years (includes evolutionary stacks such as React/Vue/et al)
