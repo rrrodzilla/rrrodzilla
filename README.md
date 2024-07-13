@@ -20,8 +20,7 @@ I've worked in various tech roles over the years, from leading teams to architec
 
 ## Get in Touch 📫
 
-- 🐦 Find me on [Twitter](https://www.twitter.com/rrrodziilla) (even though I mostly lurk)
-- 📧 Email me at [rrrodzilla@protonmail.com](mailto:rrrodzilla@protonmail.com) (I'm pretty responsive here)
+- 📧 Email me at [rrrodzilla@proton.me](mailto:rrrodzilla@proton.me) 
 
 Always happy to chat about Rust, AI, tech, or the sailing dev life!
 
