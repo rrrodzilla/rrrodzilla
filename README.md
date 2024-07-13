@@ -2,12 +2,12 @@
 
 ## Coding from the Pacific 🌊💻
 
-I'm a software developer living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
+I'm a freelance software consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
 
 ## What I Do 🚀
 
 - 👀 Interested in open source software and technology solutions that make a positive impact.
-- 🌱 Nearly 30 years of experience in software architecture, team leadership, and development.
+- 🌱 Nearly 30 years of experience in software architecture, team leadership, and software engineering.
 - ☁️ Former Principal at AWS, where I focused on the Rust programming language.
 - ☁️ Former SOA architect at Microsoft, where I helped launch v1 of Azure back in 2009.
 - ☁️ Current consultant-for-hire, open-source maintainer and Microsoft Startup Accelerator participant building [ntangler](https://github.com/GovCraft/ntangler).
