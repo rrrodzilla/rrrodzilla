@@ -26,4 +26,4 @@ Always happy to chat about Rust, AI, tech, or the sailing dev life!
 
 ## Professional Services 💼
 
-If your company needs expert help with Rust development, AI integration, or cloud optimization, reach out at roland@govcraft.ai or visit [https://www.govcraft.ai](https://www.govcraft.ai) for more information about my consulting services.
+If your company needs expert help with product or modern systems development, AI integration, or cloud optimization, reach out at roland@govcraft.ai or visit [https://www.govcraft.ai](https://www.govcraft.ai) for more information about my consulting services.
