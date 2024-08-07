@@ -20,7 +20,7 @@ I've worked in various tech roles over the years, from leading teams to architec
 
 ## Get in Touch 📫
 
-- 📧 Email me at [rrrodzilla@proton.me](mailto:rrrodzilla@proton.me) 
+- 📧 Email me at [roland@govcraft.ai](mailto:roland@govcraft.ai) 
 
 Always happy to chat about Rust, AI, tech, or the sailing dev life!
 
