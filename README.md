@@ -1,6 +1,6 @@
 # Hi, I'm Roland 👋
 
-## Coding from the Pacific 🌊💻
+## What am I thinking about in this picture? Some tasty programming problem? Fluctuating noodle prices in China? ...Who knows.
 
 I'm a freelance software consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
 
