@@ -2,7 +2,7 @@
 
 ## What am I thinking about in this picture? Some tasty programming problem? Fluctuating noodle prices in China? ...Who knows.
 
-I'm an entrepreneur, open-source contributor and maintainer and freelance tech consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
+I'm an entrepreneur, open-source contributor/maintainer, and freelance tech consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
 
 ## What I Do 🚀
 
