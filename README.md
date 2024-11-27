@@ -2,7 +2,7 @@
 
 ## What am I thinking about in this picture? Some tasty programming problem? Fluctuating noodle prices in China? ...Who knows.
 
-I'm a freelance software consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
+I'm an entrepreneur, open-source contributor and maintainer and freelance tech consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
 
 ## What I Do 🚀
 
@@ -16,7 +16,7 @@ I'm a freelance software consultant living on a sailboat with my family. Most of
 
 ## My Background 🗺️
 
-I've worked in various tech roles over the years, from leading teams to architecting solutions. Now, I'm applying that experience to create robust, adaptable code – all while navigating the challenges and joys of a nautical lifestyle.
+Started programming in BASIC forty years ago when I was eight on a TRS-80 from Radio Shack. ...It's been all downhill from there.
 
 ## Get in Touch 📫
 
