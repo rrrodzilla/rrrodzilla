@@ -1,6 +1,6 @@
 # Hi, I'm Roland 👋
 
-## What am I thinking about in this picture? Some tasty programming problem? Fluctuating noodle prices in China? ...Who knows.
+I started programming in BASIC forty years ago when I was eight on a TRS-80 from Radio Shack...It's been all downhill from there.
 
 I'm an entrepreneur, open-source contributor/maintainer, and freelance tech consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
 
@@ -15,14 +15,13 @@ I'm an entrepreneur, open-source contributor/maintainer, and freelance tech cons
 - 🤖 Exploring ML and its applications across different fields.
 
 ## My Background 🗺️
-
-Started programming in BASIC forty years ago when I was eight on a TRS-80 from Radio Shack. ...It's been all downhill from there.
+Former Principal @AWS, shipped products at Microsoft, buncha other stuff over these decades.
 
 ## Get in Touch 📫
 
 - 📧 Email me at [roland@govcraft.ai](mailto:roland@govcraft.ai) 
 - 📧 Find me on Bluesky [@govcraft.ai](https://bsky.app/profile/govcraft.ai) 
-- 📧 Have a look at Govcraft's Github repo [github.com/Govcraft](https://github.com/GovCraft/) 
+- 📧 Have a look at Govcraft's Github repo [github.com/Govcraft](https://github.com/GovCraft/) to see what I'm working on. 
 
 Always happy to chat about Rust, AI, tech, or the sailing dev life!
 
