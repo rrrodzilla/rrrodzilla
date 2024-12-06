@@ -1,30 +1,36 @@
 # Hi, I'm Roland 👋
 
-I started programming in BASIC forty years ago when I was eight on a TRS-80 from Radio Shack...It's been all downhill from there.
+I'm an entrepreneur, open-source contributor, and technologist with nearly 30 years of experience in business, software architecture, and engineering. I live and work on a sailboat with my family and 3 cats, using solar energy to stay off-grid while cruising the Pacific Ocean.
 
-I'm an entrepreneur, open-source contributor/maintainer, and freelance tech consultant living on a sailboat with my family. Most of my work happens off-grid, powered by solar energy while cruising the Pacific Ocean.
+## What I Do
 
-## What I Do 🚀
+- **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects the help society.
+- **Experience:**
+  - **Software Architecture & Leadership:** Nearly three decades in designing and leading software teams.
+  - **AWS:** Former Principal managing Rust programming language projects globally.
+  - **Microsoft:** Former SOA Architect, helped launch Azure v1 in 2009.
+- **Current Projects:**
+  - **Govcraft:** Providing expertise in secure, safe software development, ML integration, and cloud optimization.
+  - **[ntangler](https://github.com/GovCraft/ntangler):** Open-source project focused on reducing developer toil.
+- **Technologies:**
+  - **Rust:** Enthusiast exploring its use for efficient and secure systems.
+  - **Machine Learning:** Looking into applications across different fields.
 
-- 👀 Interested in open source software and technology solutions that make a positive impact.
-- 🌱 Nearly 30 years of experience in software architecture, team leadership, and software engineering.
-- ☁️ Former Principal at AWS, where I managed the Rust programming language globally.
-- ☁️ Former SOA architect at Microsoft, where I helped launch v1 of Azure back in 2009.
-- ☁️ Current consultant-for-hire, open-source maintainer and Microsoft Startup Accelerator participant building [ntangler](https://github.com/GovCraft/ntangler).
-- 🦀 Rust enthusiast, always exploring its potential for efficient, secure systems.
-- 🤖 Exploring ML and its applications across different fields.
+## Get in Touch
 
-## My Background 🗺️
-Former Principal @AWS, shipped products at Microsoft, buncha other stuff over these decades.
+- **Email:** [roland@govcraft.ai](mailto:roland@govcraft.ai)
+- **Bluesky:** [@govcraft.ai](https://bsky.app/profile/govcraft.ai)
+- **GitHub:** [GovCraft](https://github.com/GovCraft)
 
-## Get in Touch 📫
+I'm always open to discussions about Rust, ML, technology, or the unique challenges of remote development.
 
-- 📧 Email me at [roland@govcraft.ai](mailto:roland@govcraft.ai) 
-- 📧 Find me on Bluesky [@govcraft.ai](https://bsky.app/profile/govcraft.ai) 
-- 📧 Have a look at Govcraft's Github repo [github.com/Govcraft](https://github.com/GovCraft/) to see what I'm working on. 
+## Professional Services
 
-Always happy to chat about Rust, AI, tech, or the sailing dev life!
+Offering expert consulting in:
 
-## Professional Services 💼
+- **Product Development**
+- **Modern Systems Development**
+- **AI Integration**
+- **Cloud Optimization**
 
-If your company needs expert help with product or modern systems development, AI integration, or cloud optimization, reach out to roland@govcraft.ai or visit [https://www.govcraft.ai](https://www.govcraft.ai) for more information about my consulting services.
+Learn more at [govcraft.ai](https://www.govcraft.ai) or contact me directly at [roland@govcraft.ai](mailto:roland@govcraft.ai).
