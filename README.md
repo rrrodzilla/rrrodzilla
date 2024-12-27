@@ -2,6 +2,9 @@
 
 I'm an entrepreneur, open-source contributor, and technologist with nearly 30 years of experience in business, software architecture, and engineering. I live and work on a sailboat with my family and 3 cats, using solar energy to stay off-grid while cruising the Pacific Ocean.
 
+## **I Just Launched a Rust Course!** 🦀
+If you’re considering adopting Rust for your organization, don’t miss my new **[Rust for Tech Leaders course](https://www.udemy.com/course/rust-for-tech-leaders/?referralCode=E44C53C3E3C4222694F7)** on Udemy. In it, I share a strategic framework for integrating Rust into your teams and projects—perfect for managers, directors, and CTOs wanting to explore Rust's security, performance, and long-term benefits.
+
 ## What I Do
 
 - **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects that help society.
@@ -15,8 +18,7 @@ I'm an entrepreneur, open-source contributor, and technologist with nearly 30 ye
   - **[ntangler](https://github.com/GovCraft/ntangler):** Open-source project focused on reducing developer toil.
 
 - **Technologies:**
-  - **Rust:** Enthusiast exploring its use for efficient and secure systems.  
-    - *Check out my new [Rust for Tech Leaders course](https://www.udemy.com/course/rust-for-tech-leaders/?referralCode=E44C53C3E3C4222694F7) if you’re considering adopting Rust in your organization.*
+  - **Rust:** Enthusiast exploring its use for efficient and secure systems. 
   - **Machine Learning:** Looking into applications across different fields.
 
 ## Get in Touch
