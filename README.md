@@ -4,16 +4,19 @@ I'm an entrepreneur, open-source contributor, and technologist with nearly 30 ye
 
 ## What I Do
 
-- **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects the help society.
+- **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects that help society.
 - **Experience:**
   - **Software Architecture & Leadership:** Nearly three decades in designing and leading software teams.
   - **AWS:** Former Principal managing Rust programming language projects globally.
   - **Microsoft:** Former SOA Architect, helped launch Azure v1 in 2009.
+
 - **Current Projects:**
   - **Govcraft:** Providing expertise in secure, safe software development, ML integration, and cloud optimization.
   - **[ntangler](https://github.com/GovCraft/ntangler):** Open-source project focused on reducing developer toil.
+
 - **Technologies:**
-  - **Rust:** Enthusiast exploring its use for efficient and secure systems.
+  - **Rust:** Enthusiast exploring its use for efficient and secure systems.  
+    - *Check out my new [Rust for Tech Leaders course](https://www.udemy.com/course/rust-for-tech-leaders/?referralCode=E44C53C3E3C4222694F7) if you’re considering adopting Rust in your organization.*
   - **Machine Learning:** Looking into applications across different fields.
 
 ## Get in Touch
