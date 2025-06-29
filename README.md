@@ -2,9 +2,6 @@
 
 I'm an entrepreneur, open-source contributor, and technologist with nearly 30 years of experience in business, software architecture, and engineering. I live and work on a sailboat with my family and 3 cats, using solar energy to stay off-grid while cruising the Pacific Ocean.
 
-## **I Just Launched a Rust Course!** 🦀
-If you’re considering adopting Rust for your organization, don’t miss my new **[Rust for Tech Leaders course](https://www.udemy.com/course/rust-for-tech-leaders/?referralCode=E44C53C3E3C4222694F7)** on Udemy. In it, I share a strategic framework for integrating Rust into your teams and projects—perfect for managers, directors, and CTOs wanting to explore Rust's security, performance, and long-term benefits.
-
 ## What I Do
 
 - **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects that help society.
@@ -14,12 +11,12 @@ If you’re considering adopting Rust for your organization, don’t miss my new
   - **Microsoft:** Former SOA Architect, helped launch Azure v1 in 2009.
 
 - **Current Projects:**
-  - **Govcraft:** Providing expertise in secure, safe software development, ML integration, and cloud optimization.
-  - **[ntangler](https://github.com/GovCraft/ntangler):** Open-source project focused on reducing developer toil.
+  - **Govcraft:** Spending all of my time these days providing expertise in secure, safe software development, ML integration, and cloud optimization.
 
 - **Technologies:**
-  - **Rust:** Enthusiast exploring its use for efficient and secure systems. 
-  - **Machine Learning:** Looking into applications across different fields.
+  - **Rust:** Expert in its use for efficient and secure systems. 
+  - **Machine Learning:** Using professionally since 2015 across different fields.
+  - **Everything Else:** If you can Google it, I've likely got experience with it in some form or fashion. I only count "experience" as I've installed it, run it, managed it, built it, configured it or some combination thereof. I'm a prolific learner and the projects I've worked on are too numerous to count. 
 
 ## Get in Touch
 
@@ -27,7 +24,7 @@ If you’re considering adopting Rust for your organization, don’t miss my new
 - **Bluesky:** [@govcraft.ai](https://bsky.app/profile/govcraft.ai)
 - **GitHub:** [GovCraft](https://github.com/GovCraft)
 
-I'm always open to discussions about Rust, ML, technology, or the unique challenges of remote development.
+I'm always open to discussions about Rust, ML or anything tech.
 
 ## Professional Services
 
