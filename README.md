@@ -1,6 +1,6 @@
 # Hey, I'm Roland 👋
 
-I'm a software developer with nearly 30 years of experience building things. These days I live on a sailboat with my family and 3 cats, cruising the Pacific and running everything on solar power. It's a pretty good setup.
+I'm a software developer with over 30 years of experience building things. These days I live on a sailboat with my family and 3 cats, cruising the Pacific and running everything on solar power. It's a pretty good setup.
 
 ## What I'm Up To
 
