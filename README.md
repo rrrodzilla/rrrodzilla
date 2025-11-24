@@ -1,38 +1,34 @@
-# Hi, I'm Roland 👋
+# Hey, I'm Roland 👋
 
-I'm an entrepreneur, open-source contributor, and technologist with nearly 30 years of experience in business, software architecture, and engineering. I live and work on a sailboat with my family and 3 cats, using solar energy to stay off-grid while cruising the Pacific Ocean.
+I'm a software developer with nearly 30 years of experience building things. These days I live on a sailboat with my family and 3 cats, cruising the Pacific and running everything on solar power. It's a pretty good setup.
 
-## What I Do
+## What I'm Up To
 
-- **Open Source & Technology:** Passionate about creating and maintaining useful open-source projects that help society.
-- **Experience:**
-  - **Software Architecture & Leadership:** Nearly three decades in designing and leading software teams.
-  - **AWS:** Former Principal managing Rust programming language projects globally.
-  - **Microsoft:** Former SOA Architect, helped launch Azure v1 in 2009.
+I spend most of my time building and maintaining open-source projects over at [Govcraft](https://github.com/Govcraft). It's just me—no team, no investors, no corporate backing. Just a guy on a boat writing code.
 
-- **Current Projects:**
-  - **Govcraft:** Spending all of my time these days providing expertise in secure, safe software development, ML integration, and cloud optimization.
+**Some things I've built:**
+- **[acton-service](https://github.com/Govcraft/acton-service)** - Production-grade Rust microservice framework
+- **[acton-reactive](https://github.com/Govcraft/acton-reactive)** - Actor-based reactive framework for Rust
+- **[rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server)** - MCP server for querying Rust crate documentation
 
-- **Technologies:**
-  - **Rust:** Expert in its use for efficient and secure systems. 
-  - **Machine Learning:** Using professionally since 2015 across different fields.
-  - **Everything Else:** If you can Google it, I've likely got experience with it in some form or fashion. I only count "experience" as I've installed it, run it, managed it, built it, configured it or some combination thereof. I'm a prolific learner and the projects I've worked on are too numerous to count. 
+## Background
+
+I've been doing this for a while:
+- **AWS** - Former Principal managing Rust programming language projects globally
+- **Microsoft** - Former SOA Architect, helped launch Azure v1 back in 2009
+- **Rust** - My main thing these days. I love it for building efficient, secure systems.
+- **ML** - Been using it professionally since 2015
+
+If you can Google it, I've probably installed it, run it, built it, or broken it at some point.
+
+## Support My Work
+
+If you find any of my projects useful, consider [sponsoring me](https://github.com/sponsors/Govcraft). It helps keep the boat batteries charged and lets me spend more time on open source instead of consulting gigs.
 
 ## Get in Touch
 
 - **Email:** [roland@govcraft.ai](mailto:roland@govcraft.ai)
 - **Bluesky:** [@govcraft.ai](https://bsky.app/profile/govcraft.ai)
-- **GitHub:** [GovCraft](https://github.com/GovCraft)
+- **Govcraft:** [github.com/Govcraft](https://github.com/Govcraft)
 
-I'm always open to discussions about Rust, ML or anything tech.
-
-## Professional Services
-
-Offering expert consulting in:
-
-- **Product Development**
-- **Modern Systems Development**
-- **AI Integration**
-- **Cloud Optimization**
-
-Learn more at [govcraft.ai](https://www.govcraft.ai) or contact me directly at [roland@govcraft.ai](mailto:roland@govcraft.ai).
+Always happy to chat about Rust, open source, boats, or whatever.
